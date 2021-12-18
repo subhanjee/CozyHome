@@ -1,0 +1,23 @@
+.maincollection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.collectionimg {
+    width: 16rem;
+}
+
+.imgcol {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.collectionheading {
+    text-align: center;
+    color: white;
+    font-family: 'Fredoka One' !important;
+    font-size: 4.5rem;
+}

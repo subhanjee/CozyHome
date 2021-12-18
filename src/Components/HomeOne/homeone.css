@@ -1,0 +1,43 @@
+.Maindivhomeone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.gif {
+    width: 20rem;
+}
+
+.col1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainheading {
+    color: white;
+   text-align: center;
+}
+
+.subheading {
+    font-family: "Josefin Sans", cursive;
+    text-align:center;
+    line-height: 30px;
+    color: rgb(241, 241, 241);
+    font-size: 1.2rem;
+    font-weight: 200;
+    line-height: 1.5;
+}
+
+.btnMint {
+    background-color: rgb(255, 150, 27);
+    border-radius: 10rem;
+    color: white;
+    font-family: 'Fredoka One' !important;
+    font-size: 1.9rem;
+    width: 16rem;
+    border: solid 1px rgb(255, 150, 27);
+    margin-top: .5rem;
+    text-decoration: underline rgb(85, 26, 139);
+}

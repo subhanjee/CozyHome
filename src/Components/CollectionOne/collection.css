@@ -1,0 +1,14 @@
+
+.maincollectionOne{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.collectionOneimg{
+    width: 16rem;
+}
+.imgcol1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

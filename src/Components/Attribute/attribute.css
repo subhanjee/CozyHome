@@ -1,0 +1,35 @@
+.Attributediv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.attribueheading {
+    color: white;
+    text-align: center;
+    font-family: "Fredoka One";
+    font-weight: 500;
+    font-size: 3.5rem;
+}
+
+.attribueheading1 {
+    color: white;
+    text-align: center;
+    font-family: "Josefin Sans";
+    font-weight: 200;
+    line-height: 30px;
+}
+
+.Attributelogodiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+
+}
+
+.Attributelogo {
+    width: 16rem;
+    border: solid 7px white;
+    border-radius: 1.5rem;
+}

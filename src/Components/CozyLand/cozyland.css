@@ -1,0 +1,67 @@
+.Cozylanddiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subcozylanddiv {
+    text-align: center;
+}
+
+.subcozylandheading {
+    margin-top: -3%;
+    color: rgba(255, 255, 255, 0.745);
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-family: "Josefin Sans", cursive;
+    font-weight: 200;
+
+}
+
+.cozylandheading {
+    text-align: center;
+    color: white;
+    font-family: 'Fredoka One' !important;
+    font-size: 4.5rem;
+    letter-spacing: 0.1rem;
+    font-weight: 400;
+}
+
+.midimg {
+    width: 35rem;
+}
+
+.btncozyland {
+    background-color: rgb(255, 150, 27);
+    font-size: 1.5rem;
+    width: 26rem;
+    border: solid 1px rgb(255, 150, 27);
+    border-radius: 20rem;
+    font-family: 'Fredoka One' !important;
+    color: white;
+}
+
+.imgdiv {
+    margin-top: 5rem;
+}
+
+.btndiv {
+    margin-top: 3rem;
+}
+
+@media (max-width: 569px) {
+    .midimg {
+        width: 22rem;
+    }
+
+    .btncozyland {
+        background-color: rgb(255, 150, 27);
+        font-size: 1.5rem;
+        width: 18rem;
+        border: solid 1px rgb(255, 150, 27);
+        border-radius: 20rem;
+        font-family: 'Fredoka One' !important;
+        color: white;
+    }
+}

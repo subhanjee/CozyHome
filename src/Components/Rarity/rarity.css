@@ -1,0 +1,22 @@
+.mainraritydiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rarityheading {
+    text-align: center;
+    color: white;
+    font-family: 'Fredoka One';
+    font-weight: 500;
+    font-size: 4.5rem;
+}
+
+.subrarityheading {
+    font-family: "Josefin Sans", cursive;
+    color: rgba(255, 255, 255, 0.745);
+    font-weight: 100;
+    line-height: 2;
+    text-align: center;
+
+}

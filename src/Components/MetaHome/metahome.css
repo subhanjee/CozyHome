@@ -1,0 +1,40 @@
+.MaindivMetahome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gif2 {
+    width: 20rem;
+}
+
+.col11 {
+    display: flex;
+    justify-content: center; 
+}
+
+.mainmetaheading {
+    color: white;
+    text-align: start;
+    font-size: 4.5rem;
+    letter-spacing: 0.1rem;
+    color: white;
+    font-family: "Fredoka One"
+}
+
+.submetaheading {
+    font-family: "Josefin Sans", ;
+    font-weight: 400;
+    color: white;
+    line-height: 27px;
+}
+
+.headingdiv {
+    display: flex;
+    justify-content: center;
+}
+
+.subheadingdiv {
+    flex-direction: column;
+    text-align: start;
+}

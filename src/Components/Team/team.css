@@ -1,0 +1,38 @@
+.MainTeamdiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Teamimg {
+    width: 14rem;
+}
+
+.imgteam {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.colum {
+    flex-direction: column;
+    text-align: center;
+    color: white;
+}
+.Egheading{
+    color: white;
+    font-family: "Fredoka One";
+    font-weight: 400;
+}
+.headingfive{
+    font-family: "Josefin Sans",;
+    color: white;
+    font-weight: 500;
+    margin-top: .5rem;
+}
+.teamheading{
+    color: white;
+    font-size: 3rem;
+    font-family: "Fredoka One";
+    text-align: center;
+}

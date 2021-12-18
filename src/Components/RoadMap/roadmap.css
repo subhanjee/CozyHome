@@ -1,0 +1,124 @@
+.Mainroad {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Roadheading {
+    text-align: center;
+    color: white;
+    font-family: "Fredoka One";
+    font-size: 5rem;
+}
+
+.Roadheading1 {
+    line-height: 1.4;
+    letter-spacing: 0rem;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.745);
+    text-align: left;
+    font-family: "Josefin Sans", cursive;
+    /* margin-top: calc(2rem - 50px); */
+}
+
+.Giveawaydiv {
+    display: flex;
+    justify-content: center;
+}
+
+.Giveaway1 {
+    height: 5rem;
+    width: 5rem;
+    background-color: rgba(255, 255, 255, 0.745);
+    border-radius: 1.2rem;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: center;
+    font-family: "Fredoka One", normal;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.Giveaway12 {
+    height: 5rem;
+    width: 5rem;
+    background-color: rgb(175, 225, 240);
+    border-radius: 1.2rem;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: center;
+    font-family: "Fredoka One", normal;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.Giveaway13 {
+    height: 5rem;
+    width: 5rem;
+    background-color: rgb(255, 150, 27);
+    border-radius: 1.2rem;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: center;
+    font-family: "Fredoka One", normal;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.Giveaway14 {
+    height: 5rem;
+    width: 5rem;
+    background-color: rgb(139, 195, 67);
+    border-radius: 1.2rem;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: center;
+    font-family: "Fredoka One", normal;
+    font-size: 1.2rem;
+    font-weight: 600;
+    
+}
+.Giveaway15 {
+    height: 5rem;
+    width: 5rem;
+    background-color: rgb(230, 90, 125);
+    border-radius: 1.2rem;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    text-align: center;
+    font-family: "Fredoka One", normal;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.Giveaway2 {
+    font-size: 0.8rem;
+    font-weight: 200;
+    line-height: 1.5;
+    text-decoration: underline;
+    font-family: "Josefin Sans", cursive;
+    color: rgba(255, 255, 255, 0.745);
+    margin-top: 1rem;
+    margin-left: .5rem;
+}
+.Giveaway21 {
+    font-size: 0.8rem;
+    font-weight: 200;
+    line-height: 1.5;
+    font-family: "Josefin Sans", cursive;
+    color: rgba(255, 255, 255, 0.745);
+    margin-left: .5rem;
+}

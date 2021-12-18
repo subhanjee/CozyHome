@@ -1,0 +1,26 @@
+.maincollectionTwo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.collectionTwoimg {
+    width: 16rem;
+}
+
+.imgcol12 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgdiv1 {
+    flex-direction: column;
+}
+
+.unique {
+    color: rgba(255, 255, 255, 0.745);
+    text-align: center;
+    font-family: "Fredoka One";
+    font-weight: 100;
+}
