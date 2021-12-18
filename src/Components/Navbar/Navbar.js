@@ -27,7 +27,7 @@ function Navbar() {
   const classes = useStyles();
   return (
     <div className={classes.root}>
-      <AppBar style={{ backgroundColor: "rgb(18, 20, 32)" }} position="static">
+      <AppBar style={{ backgroundColor: "rgb(18, 20, 32)" }} position="fixed">
         <Container fixed>
           <Toolbar>
             <div className="btnnav">
