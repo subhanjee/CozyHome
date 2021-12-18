@@ -26,7 +26,7 @@ const useStyles = makeStyles((theme) => ({
 function Navbar() {
   const classes = useStyles();
   return (
-    <div className={classes.root}>
+    <div >
       <AppBar style={{ backgroundColor: "rgb(18, 20, 32)" }} position="fixed">
         <Container fixed>
           <Toolbar>

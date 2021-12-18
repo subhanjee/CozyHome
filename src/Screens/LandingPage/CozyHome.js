@@ -1,7 +1,7 @@
 import React from "react";
 import HomeOne from "../../Components/HomeOne/HomeOne";
 import MetaHome from "../../Components/MetaHome/MetaHome";
-import Navbar from "../../Components/Navbar/Navbar";
+// import Navbar from "../../Components/Navbar/Navbar";
 import CozyLand from "../../Components/CozyLand/CozyLand";
 import "./Landing.css";
 import Collection from "../../Components/Collection/Collectio";
@@ -16,7 +16,7 @@ import RoadMap from '../../Components/RoadMap/RaodMap';
 function CozyHome() {
   return (
     <div>
-      <Navbar />
+      
       <div style={{ marginTop: "8rem" }}>
         <HomeOne />
         <div style={{ marginTop: "8rem" }}>
