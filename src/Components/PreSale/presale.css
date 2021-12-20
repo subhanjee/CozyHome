@@ -58,11 +58,58 @@
 .btnMint2 {
     background-color: white;
     border-radius: 10rem;
-    /* color: white; */
     font-family: 'Fredoka One' !important;
     font-size: 1.9rem;
     width: 11rem;
     border: solid 1px white;
     margin-top: .5rem;
     margin-left: 1rem;
+} 
+@media(max-width: 600px){
+    .btnMint1 {
+        background-color: rgb(255, 150, 27);
+        border-radius: 10rem;
+        color: white;
+        font-family: 'Fredoka One' !important;
+        font-size: 1.2rem;
+        width: 10rem;
+        border: solid 1px rgb(255, 150, 27);
+        margin-top: .5rem;
+        text-decoration: underline rgb(85, 26, 139);
+    } 
+    
+    .btnMint2 {
+        background-color: white;
+        border-radius: 10rem;
+        font-family: 'Fredoka One' !important;
+        font-size: 1.2rem;
+        width: 5rem;
+        border: solid 1px white;
+        margin-top: .5rem;
+        margin-left: 1rem;
+    } 
+    .Ethdiv {
+        border: solid 1px black;
+        color: white;
+        padding: 1rem;
+        border-radius: 1rem;
+        width: 10rem;
+        text-align: center;
+        font-family: "Fredoka One";
+        font-weight: 300;
+    }
+    
+    .leftdiv {
+        border: solid 1px black;
+        color: white;
+        padding: 1rem;
+        border-radius: 1rem;
+        width: 10rem;
+        text-align: center;
+        font-family: "Fredoka One";
+        font-weight: 400;
+    }
+    .prelogo {
+        width: 18rem
+    }
 }

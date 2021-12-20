@@ -35,10 +35,10 @@ function RoadMap() {
                   justifyContent: "space-between",
                   width: "30rem",
                   marginTop: "1rem"
-                }}
-              >
+                }} 
+              > 
                 <div className="Ethdiv">
-                  <h2>0.03 ETH</h2>
+                  <h2>0.03 ETH</h2> 
                 </div>
                 <div className="leftdiv">
                   <h2> 1000 LEFT</h2>

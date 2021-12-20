@@ -12,7 +12,7 @@ function MetaHome() {
   // const classes = useStyles();
   return (
     <div className="MaindivMetahome">
-      <div  >
+      <div>
         <Grid
           style={{ display: "flex", justifyContent: "center" }}
           container

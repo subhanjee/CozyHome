@@ -12,7 +12,7 @@ function CollectionTwo() {
   return (
     <div className="maincollectionTwo">
       <div>
-        <Grid
+        <Grid 
           style={{
             display: "flex",
             justifyContent: "center",

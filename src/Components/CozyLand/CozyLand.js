@@ -10,9 +10,9 @@ function CozyLand() {
           🌍 CozyLand is where you can find your neighbors and check where your <br /> 
           Cozy Home is located. Check out now your neighbors and your <br /> 
           neighborhood.
-        </h3>
+        </h3> 
         <div className="imgdiv">
-          <img
+          <img 
             className="midimg"
             src="https://www.cozyhomenft.com/static/media/cozyland.a2d5e157.png"
             alt=""

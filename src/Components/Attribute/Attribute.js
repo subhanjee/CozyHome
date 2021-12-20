@@ -4,7 +4,7 @@ import "./attribute.css";
 function Attribute() {
   return (
     <div className="Attributediv">
-      <div>
+      <div> 
         <h1 className="attribueheading">Attribute</h1>
         <h2 className="attribueheading1">
           Cozy Home designs consist of 7 different attributes. Each attribute <br />

@@ -60,15 +60,19 @@
      font-weight: bold !important;
      font-family: 'Fredoka One' !important;
  }
- @media(max-width: 425px){
-    .btn2 {
-        background-color: white !important;
-        height: 2.5rem !important;
-        font-weight: bold !important;
-        font-family: 'Fredoka One' !important;
-        font-size: 12px !important;
-        line-height: 1 !important;
-         
+
+ @media(max-width: 500px) {
+     .btn2 {
+         background-color: white !important;
+         height: 2.5rem !important;
+         font-weight: bold !important;
+         font-family: 'Fredoka One' !important;
+         font-size: 12px !important;
+         line-height: 1 !important;
+
+     }
+     .logo {
+        width: .2rem;
     }
  }
 

@@ -18,7 +18,7 @@ function Rarity() {
         </h3>
       </Container>
     </div>
-  );
+  ); 
 }
 
 export default Rarity;

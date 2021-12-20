@@ -28,25 +28,25 @@ function HomeOne() {
               />
             </div>
           </Grid>
-          <Grid  item sm={12} md={6} lg={6}>
+          <Grid item sm={12} md={6} lg={6}>
             <h1 className="mainheading">Cozy Home</h1>
             <h3 className="subheading">
-              🔑 Every homeowner gets access to the private land of {" "}
-              Ethereum<br /> with Cozy Homes within Metaverse. We are going to {" "}
-              start the<br /> construction!
+              🔑 Every homeowner gets access to the private land of Ethereum
+              <br /> with Cozy Homes within Metaverse. We are going to start the
+              <br /> construction!
             </h3>
             <h3 className="subheading">
               🛏️ The fantastic realm is a piece of land on the Ethereum
-              <br /> 
-              Blockchain network that only those who know the secret shall
-              have <br /> access to.
+              <br />
+              Blockchain network that only those who know the secret shall have{" "}
+              <br /> access to.
             </h3>
             <h3 className="subheading">
-              🌲 And the unique cozy homes in this mythical fantastic land
-              are <br /> only limited to 7999 in quantity and the deeds will be
-              sold for  <br />  0.05 ETH.
+              🌲 And the unique cozy homes in this mythical fantastic land are{" "}
+              <br /> only limited to 7999 in quantity and the deeds will be sold
+              for <br /> 0.05 ETH.
             </h3>
-            <div style={{display: "flex",  justifyContent: "center"}}>
+            <div style={{ display: "flex", justifyContent: "center" }}>
               <button className="btnMint">Mint Now!</button>
             </div>
           </Grid>

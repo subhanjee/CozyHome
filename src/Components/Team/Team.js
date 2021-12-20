@@ -20,7 +20,7 @@ function Team() {
             alignItems: "center",
             marginTop: "1rem"
           }}
-          container
+          container 
           spacing={12}
         >
           <Grid className="imgteam" item sm={12} md={3} lg={3}>
@@ -86,13 +86,8 @@ function Team() {
         </Grid>
         <div style={{ marginTop: "2rem" }}>
           <h1
-            style={{
-              textAlign: "center",
-              color: "white",
-              textDecoration: "underline white",
-              fontFamily: "Fredoka One",
-              fontWeight: "400"
-            }}
+          className="smartheading"
+         
           >
             Smart Contract !
           </h1>
