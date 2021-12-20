@@ -89,3 +89,32 @@
  .twlogo{
      font-size: 2rem
  }
+.btn1:hover {
+    content: " " !important;
+    display: block !important;
+    inset: 0px !important;
+    border-radius: 0.2rem !important;
+    font-weight: 600 !important;
+    background-color: rgb(255, 150, 27) !important;
+    
+  }
+  .btn2:hover {
+    content: " " !important;
+    display: block !important;
+    inset: 0px !important;
+    border-radius: 0.2rem !important;
+    font-weight: 600 !important;
+    background-color: rgb(255, 150, 27) !important;
+    
+  }
+  .btn3:hover {
+    content: " " !important;
+    display: block !important;
+    inset: 0px !important;
+    border-radius: 0.2rem !important;
+    font-weight: 600 !important;
+    background-color: rgb(255, 150, 27) !important;
+    
+  }
+ 
+

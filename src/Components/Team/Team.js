@@ -25,13 +25,13 @@ function Team() {
         >
           <Grid className="imgteam" item sm={12} md={3} lg={3}>
             <div className="colum">
-              <div>
+              <div >
                 <img
                   className="Teamimg"
                   src="https://www.cozyhomenft.com/static/media/egemen.794aa3e3.png"
                   alt=""
                 />
-              </div>
+              </div> 
               <div>
                 <h2 className="Egheading">Egemen</h2>
                 <h5 className="headingfive">Project Manager</h5>
@@ -97,4 +97,4 @@ function Team() {
   );
 }
 
-export default Team;
+export default Team; 

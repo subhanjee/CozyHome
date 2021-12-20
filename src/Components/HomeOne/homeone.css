@@ -39,6 +39,10 @@
     margin-top: .5rem;
     text-decoration: underline rgb(85, 26, 139);
 }
+.btnMint.style {
+    opacity: 1;
+    transform: translate(0px, 0px);
+}
 @media (max-width: 500px) {
     .gif {
         width: 14rem;
@@ -68,4 +72,8 @@
         margin-top: .5rem;
         text-decoration: underline rgb(85, 26, 139);
     }
+}
+.gif:hover { 
+    transition: transform 250ms ease 0s;
+    transform: rotate(-10deg);
 }

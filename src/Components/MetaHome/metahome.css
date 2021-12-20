@@ -5,7 +5,7 @@
 }
 
 .gif2 {
-    width: 20rem;
+    width: 21rem;
 }
 
 .col11 {
@@ -46,7 +46,7 @@
     font-family: "Josefin Sans", ;
     font-weight: 400;
     color: white;
-    line-height: 2;
+    line-height: 1.8;
     font-size: 1rem;
 }
 
@@ -59,3 +59,7 @@
     flex-direction: column;
     text-align: start;
 }
+.gif2:hover {
+    transition: transform 250ms ease 0s;
+    transform: rotate(-10deg);
+} 

@@ -23,7 +23,7 @@
 }
 @media (max-width: 500px) {
    
-    .collectionheading {
+    .collectionheading { 
         text-align: center;
         color: white;
         font-family: 'Fredoka One' !important;

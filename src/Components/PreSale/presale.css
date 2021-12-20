@@ -139,3 +139,7 @@
 .EThheading{
     font-size: 1.5rem
 }
+.prelogo:hover {
+    transition: transform 250ms ease 0s;
+    transform: rotate(-10deg);
+}

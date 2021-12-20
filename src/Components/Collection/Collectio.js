@@ -11,7 +11,7 @@ function Collection() {
   //   const classes = useStyles();
   return (
     <div className="maincollection">
-      <div> 
+      <div>  
         <h1 className="collectionheading">Collection</h1>
         <Grid
           style={{

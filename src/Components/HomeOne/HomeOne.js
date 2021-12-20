@@ -9,7 +9,7 @@ const useStyles = makeStyles((theme) => ({
     flexGrow: 1
   }
 }));
-function HomeOne() {
+function HomeOne() { 
   const classes = useStyles();
   return (
     <div className="Maindivhomeone">
@@ -18,9 +18,9 @@ function HomeOne() {
           style={{ display: "flex", justifyContent: "center" }}
           container
           spacing={12}
-        >
+        > 
           <Grid className="col1" item sm={12} md={6} lg={6}>
-            <div style={{ marginTop: "1rem" }}>
+            <div style={{ marginTop: "2rem" }}>
               <img
                 className="gif"
                 src="https://www.cozyhomenft.com/static/media/logo.3b99de8f.gif"

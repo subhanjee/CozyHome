@@ -48,7 +48,7 @@ function MetaHome() {
             </div>
           </Grid>
           <Grid className="col11" item sm={12} md={6} lg={6}>
-            <div style={{ marginTop: "2rem" }}>
+            <div style={{ marginTop: "5rem" }}>
               <img
                 className="gif2"
                 src="https://www.cozyhomenft.com/static/media/cadi.24e99993.png"
@@ -63,3 +63,4 @@ function MetaHome() {
 }
 
 export default MetaHome;
+ 
