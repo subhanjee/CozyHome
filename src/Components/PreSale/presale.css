@@ -68,7 +68,7 @@
 @media(max-width: 600px){
     .btnMint1 {
         background-color: rgb(255, 150, 27);
-        border-radius: 10rem;
+        border-radius: 10rem; 
         color: white;
         font-family: 'Fredoka One' !important;
         font-size: 1.2rem;
@@ -91,25 +91,51 @@
     .Ethdiv {
         border: solid 1px black;
         color: white;
-        padding: 1rem;
+        padding: .5rem;
         border-radius: 1rem;
-        width: 10rem;
+        width: 6rem;
         text-align: center;
         font-family: "Fredoka One";
-        font-weight: 300;
+        font-weight: 200;
+        
     }
     
     .leftdiv {
         border: solid 1px black;
         color: white;
-        padding: 1rem;
+        padding: .5rem;
         border-radius: 1rem;
-        width: 10rem;
+        width: 6rem;
         text-align: center;
         font-family: "Fredoka One";
-        font-weight: 400;
+        font-weight: 200;
+      
     }
     .prelogo {
-        width: 18rem
+        width: 14rem
     }
+    .preHeading {
+        color: white;
+        text-align: center;
+        font-family: "Fredoka One";
+        font-weight: 500;
+        font-size: 2.5rem;
+    }
+    .ethleftdiv{
+        display: flex;
+        justify-content: space-evenly;
+        /* width: 10rem; */
+        margin-top: 1rem
+    }
+    .EThheading{
+        font-size: .9rem !important
+    }
+}
+.ethleftdiv{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 1rem
+}
+.EThheading{
+    font-size: 1.5rem
 }

@@ -30,18 +30,13 @@ function RoadMap() {
             <div>
               <h1 className="preHeading">Presale</h1>
               <div
-                style={{
-                  display: "flex",
-                  justifyContent: "space-between",
-                  width: "30rem",
-                  marginTop: "1rem"
-                }} 
+              className="ethleftdiv"
               > 
                 <div className="Ethdiv">
-                  <h2>0.03 ETH</h2> 
+                  <h2 className="EThheading">0.03 ETH</h2> 
                 </div>
                 <div className="leftdiv">
-                  <h2> 1000 LEFT</h2>
+                  <h2 className="EThheading">1000 LEFT</h2>
                 </div>
               </div>
               <div style={{ display: "flex", marginTop: "2rem" }}>
