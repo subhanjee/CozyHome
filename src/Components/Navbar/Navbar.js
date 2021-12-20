@@ -40,14 +40,14 @@ function Navbar() {
             <div className="btn2nav">
               <Button className="btn2">Connect Wallet</Button>
               <Button className="btn3">
-                <TwitterIcon />
+                <TwitterIcon className="twlogo" />
               </Button>
               <Button className="btn3">
                 <img
                   className="logo"
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqwt5C44jpf2BKbTEmZWewvlQqqN7HZeTesg&usqp=CAU"
                   alt=""
-                />
+                /> 
               </Button>
               <Button className="btn3">
                 <img

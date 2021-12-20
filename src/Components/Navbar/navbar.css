@@ -12,7 +12,7 @@
      font-weight: bold !important;
      font-family: 'Fredoka One' !important;
  }
-
+ 
  .btn2nav {
      display: flex;
      width: 30vw;
@@ -40,17 +40,15 @@
          background-color: white !important;
          height: 2.5rem !important;
          font-weight: bold !important;
-         margin-right: 1.5rem !important;
+         margin-right: 1.2rem !important;
          font-family: 'Fredoka One' !important;
      }
 
      .btn3 {
          background-color: white !important;
-         height: 2.5rem !important;
+         /* height: 2.5rem !important; */
          font-weight: bold !important;
-         margin-left: 1.5rem !important;
-
-
+         margin-left: .7rem !important;
      }
  }
 
@@ -74,6 +72,9 @@
      .logo {
         width: .2rem;
     }
+    .twlogo{
+        font-size: 1.4rem !important
+    }
  }
 
  .btn3 {
@@ -84,4 +85,7 @@
 
  .logo {
      width: 1.5rem;
+ }
+ .twlogo{
+     font-size: 2rem
  }
