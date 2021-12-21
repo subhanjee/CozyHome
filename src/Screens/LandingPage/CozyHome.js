@@ -12,6 +12,7 @@ import PreSale from "../../Components/PreSale/PreSale";
 import Attribute from "../../Components/Attribute/Attribute";
 import Team from "../../Components/Team/Team";
 import RoadMap from '../../Components/RoadMap/RaodMap';
+import Static from "../../Components/Static/Static";
 
 function CozyHome() {
   return (
@@ -45,6 +46,9 @@ function CozyHome() {
         </div>
         <div style={{ marginTop: "8rem" }}>
           <Attribute />
+        </div>
+        <div style={{ marginTop: "8rem" }}>
+          <Static/>
         </div>
         <div style={{ marginTop: "8rem" }}>
           <Team />
