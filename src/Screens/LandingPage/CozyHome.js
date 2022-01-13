@@ -1,57 +1,37 @@
 import React from "react";
+import "./Landing.css";
 import HomeOne from "../../Components/HomeOne/HomeOne";
 import MetaHome from "../../Components/MetaHome/MetaHome";
 import Navbar from "../../Components/Navbar/Navbar";
 import CozyLand from "../../Components/CozyLand/CozyLand";
-import "./Landing.css";
 import Collection from "../../Components/Collection/Collectio";
 import CollectionOne from "../../Components/CollectionOne/CollectionOne";
-import Rarity from "../../Components/Rarity/Rarity";
 import CollectionTwo from "../../Components/CollectionTwo/CollectionTwo";
-import PreSale from "../../Components/PreSale/PreSale";
-import Attribute from "../../Components/Attribute/Attribute";
-import Team from "../../Components/Team/Team";
-import RoadMap from '../../Components/RoadMap/RaodMap';
-import Static from "../../Components/Static/Static";
+import RoadMap from "../../Components/RoadMap/RaodMap";
 
 function CozyHome() {
   return (
     <div>
-   <Navbar/>
+      <Navbar />
       <div style={{ marginTop: "8rem" }}>
         <HomeOne />
-        <div style={{ marginTop: "8rem" }}>
+        <div>
           <MetaHome />
         </div>
-        <div style={{ marginTop: "8rem" }}>
+        <div>
           <CozyLand />
         </div>
-        <div style={{ marginTop: "8rem" }}>
+        <div>
           <Collection />
         </div>
-        <div style={{ marginTop: "8rem" }}>
+        <div>
           <CollectionOne />
         </div>
-        <div style={{ marginTop: "8rem" }}>
-          <Rarity />
-        </div>
-        <div style={{ marginTop: "8rem" }}>
+        <div>
           <CollectionTwo />
         </div>
-        <div style={{ marginTop: "8rem" }}>
-          <RoadMap/>
-        </div>
-        <div style={{ marginTop: "8rem" }}>
-          <PreSale/>
-        </div>
-        <div style={{ marginTop: "8rem" }}>
-          <Attribute />
-        </div>
-        <div style={{ marginTop: "8rem" }}>
-          <Static/>
-        </div>
-        <div style={{ marginTop: "8rem" }}>
-          <Team />
+        <div>
+          <RoadMap />
         </div>
       </div>
     </div>
