@@ -59,7 +59,6 @@ function MetaHome() {
             sm={12}
             md={6}
             lg={6}
-            className="gifdiv111"
           >
             <div style={{ marginTop: "4rem" }}>
               <img className="gif2" src="marker.gif" alt="" />
