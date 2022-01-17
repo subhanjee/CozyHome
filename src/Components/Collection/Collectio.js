@@ -11,7 +11,7 @@ function Collection() {
   //   const classes = useStyles();
   return (
     <div className="maincollection">
-      <div>  
+      <div>
         <h1 className="collectionheading">Collection</h1>
         <Grid
           style={{
@@ -26,21 +26,21 @@ function Collection() {
           <Grid className="imgcol" item sm={12} md={4} lg={4}>
             <img
               className="collectionimg"
-              src="https://www.cozyhomenft.com/static/media/ufo.8795956c.png"
+              src="https://trello.com/1/cards/61e55be2bd852a2116b1f291/attachments/61e55c811f189a884e7fd71d/download/photo_2022-01-17_17-09-08.jpg"
               alt=""
             />
           </Grid>
           <Grid className="imgcol" item sm={12} md={4} lg={4}>
             <img
               className="collectionimg"
-              src="https://www.cozyhomenft.com/static/media/ktp.028e0c15.png"
+              src="https://trello.com/1/cards/61e55be2bd852a2116b1f291/attachments/61e55c80aa2f3219acad2ec5/download/photo_2022-01-17_17-09-05.jpg"
               alt=""
             />
           </Grid>
           <Grid className="imgcol" item sm={12} md={4} lg={4}>
             <img
               className="collectionimg"
-              src="https://www.cozyhomenft.com/static/media/sade.56d6b944.png"
+              src="https://trello.com/1/cards/61e55be2bd852a2116b1f291/attachments/61e55c7f89f227862a42912a/download/photo_2022-01-17_17-09-00.jpg"
               alt=""
             />
           </Grid>

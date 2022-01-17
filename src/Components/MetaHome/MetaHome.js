@@ -7,7 +7,7 @@ import "./metahome.css";
 //   root: {
 //     flexGrow: 1
 //   }
-// }));
+// })); 
 function MetaHome() {
   // const classes = useStyles();
   return (
@@ -21,9 +21,9 @@ function MetaHome() {
           <Grid item sm={12} md={6} lg={6}>
             <div className="headingdiv">
               <div className="subheadingdiv">
-                <h1 className="mainmetaheading">MetaHomes</h1>
+                <h1 className="mainmetaheading">HungryCrows</h1>
                 <h3 className="submetaheading">
-                  🔑Why you should buy a Cozy Home?
+                  🔑What is HungryCrows?
                   <br /> 〽️Own a real part of our Cozy Neighborhood
                   <br /> and be part of the Cozy Community.
                 </h3>

@@ -34,7 +34,6 @@ function Navbar() {
               <Button className="btn1">home</Button>
               <Button className="btn1">about</Button>
               <Button className="btn1">roadmap</Button>
-              <Button className="btn1">team</Button>
             </div>
             <Typography variant="h6" className={classes.title}></Typography>
             <div className="btn2nav">
@@ -48,13 +47,6 @@ function Navbar() {
                   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqwt5C44jpf2BKbTEmZWewvlQqqN7HZeTesg&usqp=CAU"
                   alt=""
                 /> 
-              </Button>
-              <Button className="btn3">
-                <img
-                  className="logo"
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-VreMTT0sy1-Vorj6PNPzKxVQd36fornGtA&usqp=CAU"
-                  alt=""
-                />
               </Button>
             </div>
           </Toolbar>

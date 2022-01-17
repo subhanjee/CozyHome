@@ -11,7 +11,7 @@ const useStyles = makeStyles((theme) => ({
 }));
 function RoadMap() {
   const classes = useStyles();
-  return (
+  return ( 
     <div className="Mainroad">
       <div className={classes.root}>
         <h1 className="Roadheading">Roadmap</h1>
@@ -25,7 +25,7 @@ function RoadMap() {
           spacing={12}
         >
           <Grid item sm={12} md={6} lg={6}>
-            <div>
+            <div  className="road2222">
               <h3 className="Roadheading1">
                 To conclude this roadmap. We would first start by
                 <br /> redesigning the website to have a new feel for what
