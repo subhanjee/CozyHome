@@ -6,7 +6,7 @@ import Navbar from "../../Components/Navbar/Navbar";
 // import CozyLand from "../../Components/CozyLand/CozyLand";
 import Collection from "../../Components/Collection/Collectio";
 import CollectionOne from "../../Components/CollectionOne/CollectionOne";
-import CollectionTwo from "../../Components/CollectionTwo/CollectionTwo";
+// import CollectionTwo from "../../Components/CollectionTwo/CollectionTwo";
 import RoadMap from "../../Components/RoadMap/RaodMap";
 
 function CozyHome() {
@@ -23,9 +23,6 @@ function CozyHome() {
         </div>
         <div>
           <CollectionOne />
-        </div>
-        <div>
-          <CollectionTwo />
         </div>
         <div>
           <RoadMap />
