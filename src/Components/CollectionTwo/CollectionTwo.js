@@ -12,7 +12,7 @@ function CollectionTwo() {
   return (
     <div className="maincollectionTwo">
       <div>
-        <Grid 
+        <Grid  
           style={{
             display: "flex",
             justifyContent: "center",
@@ -25,30 +25,27 @@ function CollectionTwo() {
             <div className="imgdiv1">
               <img
                 className="collectionTwoimg"
-                src="https://www.cozyhomenft.com/static/media/lgbt.29d867f5.png"
+                src="https://trello.com/1/cards/61e55be2bd852a2116b1f291/attachments/61e55c7cf83b7e7557c9bf44/download/photo_2022-01-17_17-08-50.jpg"
                 alt=""
               />
-              <h2 className="unique">🌈 Unique</h2>
             </div>
           </Grid>
           <Grid className="imgcol" item sm={12} md={4} lg={4}>
             <div className="imgdiv1">
               <img
                 className="collectionTwoimg"
-                src="https://www.cozyhomenft.com/static/media/rare.1bfbdfa3.png"
+                src="https://trello.com/1/cards/61e55be2bd852a2116b1f291/attachments/61e55c80aa2f3219acad2ec5/download/photo_2022-01-17_17-09-05.jpg"
                 alt=""
               />
-              <h2 className="unique">🌒 Unique</h2>
             </div>
           </Grid>
           <Grid className="imgcol" item sm={12} md={4} lg={4}>
             <div className="imgdiv1">
               <img
                 className="collectionTwoimg"
-                src="https://www.cozyhomenft.com/static/media/uncom.7d107eaf.png"
+                src="https://trello.com/1/cards/61e55be2bd852a2116b1f291/attachments/61e55c7d58df8a198fd22619/download/photo_2022-01-17_17-08-54.jpg"
                 alt=""
               />
-              <h2 className="unique">🍭 Unique</h2>
             </div>
           </Grid>
         </Grid>

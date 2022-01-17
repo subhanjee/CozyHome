@@ -27,7 +27,7 @@ function CollectionOne() {
               src="https://trello.com/1/cards/61e55be2bd852a2116b1f291/attachments/61e55c7d58df8a198fd22619/download/photo_2022-01-17_17-08-54.jpg"
               alt=""
             />
-          </Grid>
+          </Grid> 
           <Grid className="imgcol" item sm={12} md={4} lg={4}>
             <img
               className="collectionOneimg"

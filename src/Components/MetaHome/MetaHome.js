@@ -7,7 +7,7 @@ import "./metahome.css";
 //   root: {
 //     flexGrow: 1
 //   }
-// })); 
+// }));
 function MetaHome() {
   // const classes = useStyles();
   return (
@@ -24,34 +24,35 @@ function MetaHome() {
                 <h1 className="mainmetaheading">HungryCrows</h1>
                 <h3 className="submetaheading">
                   🔑What is HungryCrows?
-                  <br /> 〽️Own a real part of our Cozy Neighborhood
-                  <br /> and be part of the Cozy Community.
+                  <br /> 〽️HungryCrows is a evolutionary 2222 series being<br/>
+                  minted away for free. We plan to addvalue<br/>  to these crows and
+                  scarcity through the<br/>  technology we build and launch such as<br/> 
+                  our Solana nft marketplace!
                 </h3>
                 <h3 className="submetaheading">
-                  〽️Generate revenue on your investment by
-                  <br /> managing a Bed and Breakfast.
+                🔑Is this instant reveal?
+                  <br />〽️Yes
                 </h3>
                 <h3 className="submetaheading">
-                  〽️Link your Cozy Homes throughout the
-                  <br /> Metaverse to appear in virtual spaces (i.e.
-                  <br /> Decentraland, or VR Reality Spaces).
+                🔑What is the total cost?
+                〽️ 0, excluding gas fee which is $0.0025
                 </h3>
                 <h3 className="submetaheading">
-                  〽️Get ~31.6% chance to win the biggest
-                  <br /> giveaways of NFT History (we invest into our
-                  <br /> community with 🏎️ 1 Porsche + 📱 100*iPhone 13
-                  <br />
-                  Pro + 💵 5* 10,000$, 200* 500$ + 🏡
-                  <br /> Purchased Metaverse Land *worth ETH).
+                🔑What are the socials?
+                〽️ All of our socials are located in our twitter @HungryCrowsNFT
                 </h3>
+                <h3 className="submetaheading">
+                🔑Do admins message first in the discord server? 
+                〽️No
+              </h3>
               </div>
             </div>
           </Grid>
           <Grid className="col11" item sm={12} md={6} lg={6}>
-            <div style={{ marginTop: "5rem" }}>
+            <div style={{ marginTop: "4rem" }}>
               <img
                 className="gif2"
-                src="https://www.cozyhomenft.com/static/media/cadi.24e99993.png"
+                src="marker.gif"
                 alt=""
               />
             </div>
@@ -63,4 +64,3 @@ function MetaHome() {
 }
 
 export default MetaHome;
- 

@@ -6,21 +6,22 @@
 }
 
 .gif2 {
-    width: 21rem;
+    width: 18rem;
 }
  
 .col11 {
-    display: flex;
+    display: flex; 
     justify-content: center; 
 }
 
 .mainmetaheading {
     color: white;
-    text-align: start;
+    text-align: center;
     font-size: 4.5rem;
     letter-spacing: 0.1rem;
     color: white;
     font-family: "Fredoka One"
+    
 }
 @media(max-width: 500px){
     .mainmetaheading {
@@ -40,6 +41,7 @@
         color: white;
         line-height: 2;
         font-size: .9rem;
+        text-align: center;
     }
 }
  

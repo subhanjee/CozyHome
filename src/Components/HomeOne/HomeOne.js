@@ -20,15 +20,9 @@ function HomeOne() {
           spacing={12}
         >
           <Grid className="col1" item sm={12} md={6} lg={6}>
-            <div style={{ marginTop: "1rem" }}>
-              <video
-                src="https://trello.com/1/cards/61e55b60c62d5f03f07e965c/attachments/61e55b926b0f604561ef7582/download/video.mp4"
-                width="300rem"
-                height="250rem" 
-                controls="controls"
-                autoPlay="true"
-              />
-            </div>
+            <div >
+              <img className="gif" src="marker.gif" alt=""/>
+            </div> 
           </Grid>
           <Grid item sm={12} md={6} lg={6} style={{marginTop: "1rem"}}>
             <h1 className="mainheading">Cozy Home</h1>
