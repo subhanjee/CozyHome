@@ -26,21 +26,21 @@ function Collection() {
           <Grid className="imgcol" item sm={12} md={4} lg={4}>
             <img
               className="collectionimg"
-              src="https://trello.com/1/cards/61e55be2bd852a2116b1f291/attachments/61e55c811f189a884e7fd71d/download/photo_2022-01-17_17-09-08.jpg"
+              src="gif.jpg"
               alt=""
             />
           </Grid>
           <Grid className="imgcol" item sm={12} md={4} lg={4}>
             <img
               className="collectionimg"
-              src="https://trello.com/1/cards/61e55be2bd852a2116b1f291/attachments/61e55c80aa2f3219acad2ec5/download/photo_2022-01-17_17-09-05.jpg"
+              src="gif2.jpg"
               alt=""
             />
           </Grid>
           <Grid className="imgcol" item sm={12} md={4} lg={4}>
             <img
               className="collectionimg"
-              src="https://trello.com/1/cards/61e55be2bd852a2116b1f291/attachments/61e55c7f89f227862a42912a/download/photo_2022-01-17_17-09-00.jpg"
+              src="gif3.jpg"
               alt=""
             />
           </Grid>

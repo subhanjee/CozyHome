@@ -25,7 +25,7 @@ function CollectionTwo() {
             <div className="imgdiv1">
               <img
                 className="collectionTwoimg"
-                src="https://trello.com/1/cards/61e55be2bd852a2116b1f291/attachments/61e55c7cf83b7e7557c9bf44/download/photo_2022-01-17_17-08-50.jpg"
+                src="gif4.jpg"
                 alt=""
               />
             </div>
@@ -34,7 +34,7 @@ function CollectionTwo() {
             <div className="imgdiv1">
               <img
                 className="collectionTwoimg"
-                src="https://trello.com/1/cards/61e55be2bd852a2116b1f291/attachments/61e55c80aa2f3219acad2ec5/download/photo_2022-01-17_17-09-05.jpg"
+                src="gif2.jpg"
                 alt=""
               />
             </div>
@@ -43,7 +43,7 @@ function CollectionTwo() {
             <div className="imgdiv1">
               <img
                 className="collectionTwoimg"
-                src="https://trello.com/1/cards/61e55be2bd852a2116b1f291/attachments/61e55c7d58df8a198fd22619/download/photo_2022-01-17_17-08-54.jpg"
+                src="gif3.jpg"
                 alt=""
               />
             </div>
